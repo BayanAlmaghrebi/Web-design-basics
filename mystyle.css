@@ -1,0 +1,70 @@
+/* 
+body
+{ font-family: 'Oswald', sans-serif;} 
+   
+h1 { 
+    text-align:center
+}
+
+.myheading{ 
+    background-color: yellow;
+    color: green;
+}
+#idheading{
+    color: red;}
+   .mainheading {color: blue;font-family:Impact;background-color:red}   */
+
+   body {font-family: 'Source Sans Pro', sans-serif;} 
+   .mydiv{background-color:#D9EEE1 ;
+    width: 30%;
+    text-align: center;
+    padding: 15px 0px;
+    border-radius: 20px;
+    margin: 50px auto;
+    box-shadow: 1px 22px 30px -3px rgba(0,0,0,0.75);
+
+}  
+.mydiv:hover{
+    border: 2px solid black;
+} 
+.heading{
+    font-size: 100px;
+    font-weight: 700;
+   } 
+
+   .subtitle{
+    font-size: 19px;
+   } 
+
+a{display: block;
+width: 200px;
+/* margin: 35px; */
+padding: 12px;
+text-align: center;
+text-decoration: none;
+border-radius: 25px;
+margin: 15px auto;
+
+
+} 
+
+.learn {background-color:#04AA6D; color: white; }  
+.video{background-color:#FFF4A3!important; color: black;} 
+.reference{background-color:#282A35;color:white ;} 
+.Certified{background-color:#FFC0C7; color: black;} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+   
+    
